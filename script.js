@@ -1,4 +1,4 @@
-const API_KEY = "PON_AQUI_TU_API_KEY";
+const API_KEY = "4ySermGsysYPcxx2pcRQ48aJ";
 
 const input = document.getElementById("imageInput");
 const preview = document.getElementById("preview");
